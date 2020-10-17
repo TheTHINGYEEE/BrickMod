@@ -7,7 +7,9 @@ It requires Fabric API since this is made out of the Fabric Mod thing
 
 # Downloads
 Make sure to install Fabric Mod Loader: https://fabricmc.net/use/
+
 Install Fabric API: https://www.curseforge.com/minecraft/mc-mods/fabric-api
+
 And of course install the mod itself. https://github.com/TheTHINGYEEE/BrickMod/releases/tag/1.2.4
 
 # Contents?
