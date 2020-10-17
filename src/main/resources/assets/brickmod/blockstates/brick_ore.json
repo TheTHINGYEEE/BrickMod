@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "brickmod:block/brick_ore"
+    }
+  }
+}

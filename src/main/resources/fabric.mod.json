@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "brickmod",
+  "version": "${version}",
+  "name": "BricksMod1.16",
+  "description": "A bricks mod for Minecraft 1.16.2",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/BricksMod1.16/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "me.thethingyee.brickmod.brickmod"
+    ]
+  },
+  "mixins": [
+    "BricksMod1.16.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.10.1+build.209",
+    "fabric": "*",
+    "minecraft": "1.16.2"
+  }
+}

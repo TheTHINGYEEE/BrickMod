@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.thethingyee.brickmod.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+  ],
+  "client": [
+    "OreGeneration"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
