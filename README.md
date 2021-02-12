@@ -1,5 +1,5 @@
 # BrickMod
-https://img.shields.io/github/issues/TheTHINGYEEE/BrickMod
+<a href="https://github.com/TheTHINGYEEE/BrickMod/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/TheTHINGYEEE/BrickMod"></a>
 A Brick Mod for Minecraft 1.16.2
 
 A useless mod.
