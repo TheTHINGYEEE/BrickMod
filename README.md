@@ -1,7 +1,7 @@
 # BrickMod
 <a href="https://github.com/TheTHINGYEEE/BrickMod/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/TheTHINGYEEE/BrickMod"></a>
 <a href="https://github.com/TheTHINGYEEE/BrickMod/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/TheTHINGYEEE/BrickMod"></a>
-<img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/thethingyeee/brickmod">
+<img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/TheTHINGYEEE/BrickMod">
 
 
 
